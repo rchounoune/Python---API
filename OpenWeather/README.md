@@ -22,4 +22,4 @@ The objective was to build a series of scatter plots to showcase the following r
 
 * Wind Speed (mph) vs. Latitude
 
-![Image description](https://github.com/rchounoune/Python---API/blob/master/OpenWeather/LatvsWin.png)
+![Image description](https://github.com/rchounoune/Python---API/blob/master/OpenWeather/LatvsWind.png)
