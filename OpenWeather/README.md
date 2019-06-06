@@ -5,6 +5,7 @@ In this project, I created a Python script to visualize the weather of 500+ citi
 The objective was to build a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
+![Image description](https://github.com/rchounoune/Python---API/blob/master/OpenWeather/LatvsTemp.png)
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
