@@ -11,6 +11,15 @@ The objective was to build a series of scatter plots to showcase the following r
 
 * Humidity (%) vs. Latitude
 
+![Image description](https://github.com/rchounoune/Python---API/blob/master/OpenWeather/LatvsHum.png)
+
+
 * Cloudiness (%) vs. Latitude
 
+![Image description](https://github.com/rchounoune/Python---API/blob/master/OpenWeather/LatvsCloud.png)
+
+
+
 * Wind Speed (mph) vs. Latitude
+
+![Image description](https://github.com/rchounoune/Python---API/blob/master/OpenWeather/LatvsWin.png)
